@@ -1,0 +1,23 @@
+.present-wrapper {
+  padding-top: 324px;
+  height: 780px;
+  background-image: url("../image/kate-leo.jpg");
+  background-repeat: no-repeat;
+}
+
+.present-text {
+  font-family: "Roboto", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 1;
+  text-transform: uppercase;
+  text-align: center;
+  
+}
+
+.present-text-title {
+  display: block;
+  margin-bottom: 35px;
+  font-size: 100px;
+  color: #ffb822;
+}
